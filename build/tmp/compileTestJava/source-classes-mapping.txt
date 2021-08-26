@@ -1,0 +1,12 @@
+com/leopard/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.leopard.book.springboot.web.dto.HelloResponseDtoTest
+com/leopard/book/springboot/ApplicationTests.java
+ com.leopard.book.springboot.ApplicationTests
+com/leopard/book/springboot/web/HelloControllerTest.java
+ com.leopard.book.springboot.web.HelloControllerTest
+com/leopard/book/springboot/web/PostsApiControllerTest.java
+ com.leopard.book.springboot.web.PostsApiControllerTest
+com/leopard/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.leopard.book.springboot.domain.posts.PostsRepositoryTest
+com/leopard/book/springboot/web/IndexControllerTest.java
+ com.leopard.book.springboot.web.IndexControllerTest
